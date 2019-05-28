@@ -11,9 +11,9 @@
 '7': i
 '8': o
 '9': s
-skipVerification: false
+skipVerification: true
 cbmcArguments:
-  java-max-vla-length: 200000
+  java-max-vla-length: 300000
 phases:
   - timeout: 150
     cbmcArguments:
