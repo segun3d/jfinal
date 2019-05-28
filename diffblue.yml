@@ -16,7 +16,6 @@ cbmcArguments:
   paths: lifo2
   java-max-vla-length: 300000
 key:
-  - string1
   - string2
   - string3
   - string6
